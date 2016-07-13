@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">activityTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="changeButton">修改</string>
+    <string name="clearButton">清空</string>
+    <string name="comfire">确定</string>
+
+</resources>
